@@ -1,0 +1,7 @@
+﻿.vs
+SampleModule/obj
+SampleModule/bin
+BlazorApp/obj/Release
+BlazorApp/obj
+BlazorApp/bin
+BlazorApp/.vscode
